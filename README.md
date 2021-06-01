@@ -4,7 +4,7 @@
 
 🔭 Desenvolvi recentemente um projeto utilizando C#, que consiste em um aplicativo simples de cadastro de séries.
 
-💬 Caso tenha vontade fique a vontade para entrar em contato comigo através de minhas redes sociais ou e-mail.
+💬 Se desejar, fique a vontade para entrar em contato comigo através de minhas redes sociais ou e-mail.
 
 ----
 
@@ -23,4 +23,6 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosecosmesilva&show_icons=true)
+ ![card](https://github-readme-stats.vercel.app/api?username=carlosecosmesilva&theme=dark)
+
+[![carlosecosmesilva](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosecosmesilva&hide=html&layout=compact&theme=dark)](https://github.com/iuricode/)
