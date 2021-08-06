@@ -2,7 +2,7 @@
 
 > Sou estudante de Sistemas de Informação, e atualmente trabalho como Analista de Suporte, porém estou estudando para migrar para a área de desenvolvimento.
 
-🔭 Desenvolvi recentemente um projeto utilizando C#, que consiste em um aplicativo simples de cadastro de séries.
+🔭 Desenvolvi recentemente um novo portfolio utilizando HTML, CSS e JavaScript, que consiste em mostrar um pouco mais meu trabalho.
 
 💬 Se desejar, fique a vontade para entrar em contato comigo através de minhas redes sociais ou e-mail.
 
