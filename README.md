@@ -2,7 +2,7 @@
 
 > - 🎓 Estudante de Sistemas de Informação
 > - 💻 Trabalho com Suporte
-> - 📚 Estudando JavaScript e React
+> - 📚 Estudando JavaScript e C#
 <div>
   <a href="https://github.com/carlosecosmesilva">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlosecosmesilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
