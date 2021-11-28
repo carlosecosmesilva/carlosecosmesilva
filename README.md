@@ -1,6 +1,6 @@
 ## Olá, Eu sou o <strong>Carlos Eduardo!</strong>
 
-> - 🎓 Estudante de Sistemas de Informação
+> - 🎓 Sistemas de Informação - UFF
 > - 💻 Trabalho com Suporte
 > - 📚 Estudando JavaScript e C#
 <div>
