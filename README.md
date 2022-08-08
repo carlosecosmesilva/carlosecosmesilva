@@ -1,8 +1,8 @@
 ## Olá, Eu sou o <strong>Carlos Eduardo!</strong>
 
 > - 🎓 Sistemas de Informação - UFF
-> - 💻 Trabalho com Suporte
-> - 📚 Estudando JavaScript e React
+> - 💻 Desenvolvedor Júnior
+> - 📚 Estudando C#
 <div>
   <a href="https://github.com/carlosecosmesilva">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlosecosmesilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
