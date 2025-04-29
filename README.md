@@ -1,62 +1,47 @@
 # 💫 About Me:
+### Hi, I'm Carlos Eduardo Cosme da Silva 👋  
 
-### 🎯 I'm currently working on  
-- Developing **RESTful APIs** with **.NET Core** and **C#**  
-- Optimizing **SQL Queries** and designing **SQL Server databases**  
-- Continuously improving code with **SOLID principles** and **Clean Architecture**  
+🚀 **Software Developer** specializing in **.NET, C#, and Backend Solutions**  
+💡 Passionate about **Clean Architecture, SQL Optimization, and Cloud Technologies**  
+🎓 Bachelor in **Information Systems** at **Universidade Federal Fluminense**  
 
-### 👥 I'm looking to collaborate on  
-- **Open-source** projects focused on **.NET** and **scalable backend** development  
-- Building **distributed architecture** solutions with **microservices**  
+📌 **Maricá, Rio de Janeiro, Brazil**  
+📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/carlosecdasilva) | carlosecosme@example.com  
 
-### 🤝 I'm looking for help with  
-- Improving **CI/CD pipelines** using **Azure DevOps and GitHub Actions**  
-- Enhancing the **scalability of cloud applications** in **Azure/AWS**  
-
-### 🌱 I'm currently learning  
-- **Microservices** with **.NET and Docker**  
-- **Cloud Computing (Azure/AWS)**  
-- **DevOps and Continuous Integration**  
-- **Frontend development with React and TypeScript**  
-
-### 💬 Ask me about  
-- **.NET Backend** development  
-- **Clean Architecture** and **SOLID principles**  
-- **SQL Server optimization** and **Query Tuning**  
-
-### ⚡ Fun fact  
-- I once gave a lecture on how to enter higher education through national exams, scholarships, and funding programs!  
+⚡ **Fun Fact:** I once gave a lecture on how to enter higher education through national exams and scholarships!  
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosecdasilva)  
+## 🛠 Tech Stack  
+### **Backend & Databases**  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+
+### **Frontend & DevOps**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)  
 
 ---
 
-## 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
+## 🔥 What I'm Up To  
+- **Working on:** RESTful APIs with **.NET Core**, SQL optimization, and microservices.  
+- **Learning:** Cloud-native apps (**Azure/AWS**), DevOps, and **React + TypeScript**.  
+- **Collaborate:** Open-source projects, backend scalability, and mentorship.  
+- **Ask me about:** Clean Code, SQL tuning, or career transitions in tech!  
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=carlosecosmesilva&theme=dark&hide_border=false&include_all_commits=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=carlosecosmesilva&theme=dark&hide_border=false)  
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlosecosmesilva&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)  
+## 📊 GitHub Stats  
+[![Carlos's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=carlosecosmesilva&show_icons=true&theme=dark&hide_border=true)](https://github.com/carlosecosmesilva)  
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlosecosmesilva&layout=compact&theme=dark&hide_border=true)](https://github.com/carlosecosmesilva)  
 
 ---
 
-### ✍️ Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+### 🌐 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosecdasilva)  
