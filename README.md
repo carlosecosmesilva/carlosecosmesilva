@@ -6,7 +6,7 @@
 🎓 Bachelor in **Information Systems** at **Universidade Federal Fluminense**  
 
 📌 **Maricá, Rio de Janeiro, Brazil**  
-📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/carlosecdasilva) | carlosecosme@example.com  
+📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/carlosecdasilva) | carlos.eduardo.cs@outlook.com  
 
 ⚡ **Fun Fact:** I once gave a lecture on how to enter higher education through national exams and scholarships!  
 
